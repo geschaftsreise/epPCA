@@ -1,0 +1,14 @@
+Package: epPCA
+Title: Easy Peasy PCA plots
+Version: 0.0.0.9000
+Authors@R: person("Sean", "Thomas", email = "sthomas@altius.org", role = c("aut", "cre"))
+Description: Takes a matrix and generates PCA plots.
+Imports:
+	grid,
+	gridExtra,
+	RColorBrewer,
+Depends: R (>= 3.2.4)
+License: GNU General Public License v3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
